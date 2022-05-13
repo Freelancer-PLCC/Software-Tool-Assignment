@@ -5,5 +5,6 @@ cout<<"Group memebers name";
 cout<<"Beamlak Samson";
 cout<<"Bewket Getaneh";
 cout<<"Daniel Kebede";
+cout<<"Lyu alemayehu";
 return 0;
 }
