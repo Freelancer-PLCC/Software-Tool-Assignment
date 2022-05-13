@@ -4,5 +4,6 @@ int main(){
 cout<<"Group memebers name";
 cout<<"Beamlak Samson";
 cout<<"Bewket Getaneh";
+cout<<"Daniel Kebede";
 return 0;
 }
